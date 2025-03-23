@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar.jsx";
 import HeroSection from "./components/HeroSection.jsx";
 import AboutSection from "./components/AboutSection.jsx";
-import ProjectsSection from "./components/ProjectsSection.jsx";
+import FeaturesSection from "./components/FeaturesSection.jsx";
 import PaymentPlatform from "./components/PaymentPlatform.jsx";
 import ContactSection from "./components/ContactSection.jsx";
 import FAQSection from "./components/FAQSection.jsx";
@@ -15,7 +15,7 @@ function App() {
       <Navbar />
       <HeroSection />
       <AboutSection />
-      <ProjectsSection />
+      <FeaturesSection />
       <PaymentPlatform />
       <ContactSection />
       <FAQSection />

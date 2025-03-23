@@ -9,7 +9,7 @@ export const AboutSection = () => {
           </div>
 
           <div className="md:w-1/2 md:pl-12 mt-6 md:mt-0">
-            <h2 className="text-4xl font-bold">About Our Platform</h2>
+            <h2 className="text-4xl font-bold">About Safelance</h2>
             <p className="text-gray-400 mt-4">
 
             SAFELANCE offers a streamlined and secure platform built to simplify freelance payments. We provide a trusted escrow system for secure transactions and a clear process for both freelancers to get paid reliably upon milestone completion and for clients to ensure quality work before releasing funds. Our user-friendly interface is designed for ease of use, making your payment experience smooth and worry-free.
